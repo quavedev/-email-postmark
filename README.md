@@ -1,5 +1,7 @@
 # quave:email-postmark
 
+### MIGRATED TO https://github.com/quavedev/meteor-packages/tree/main/email-postmark
+
 `quave:email-postmark` is a Meteor package that provides a plug-and-play integration with [Postmark](https://postmarkapp.com/).
 
 ## Why
